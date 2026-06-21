@@ -1,0 +1,3769 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet">
+ <x:ExcelWorkbook>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <ss:Styles>
+  <ss:Style ss:ID="Default">
+   <ss:Alignment ss:Horizontal="Automatic" ss:Rotate="0.0" ss:Vertical="Bottom"
+    ss:ReadingOrder="Context"/>
+   <ss:Borders>
+   </ss:Borders>
+   <ss:Font ss:FontName="Arial" ss:Size="10" ss:Color="Automatic" ss:Bold="0"
+    ss:Italic="0" ss:Underline="None"/>
+   <ss:Interior ss:Color="Automatic" ss:Pattern="None"/>
+   <ss:NumberFormat ss:Format="General"/>
+   <ss:Protection ss:Protected="1"/>
+  </ss:Style>
+  <ss:Style ss:ID="wcC8C91A10">
+   <ss:Alignment ss:Horizontal="Left"/>
+   <ss:Font ss:Size="12" ss:Bold="1"/>
+   <ss:Interior/>
+  </ss:Style>
+  <ss:Style ss:ID="wc0B8B1A10">
+   <ss:Alignment ss:Horizontal="Center"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="wc47BB1A10">
+   <ss:Alignment/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="wc81AA1A10">
+   <ss:Alignment/>
+   <ss:Font ss:Size="8"/>
+   <ss:Interior/>
+  </ss:Style>
+  <ss:Style ss:ID="wc406D1A10">
+   <ss:Alignment/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+   <ss:NumberFormat ss:Format="_(#,##0.00   _)"/>
+  </ss:Style>
+  <ss:Style ss:ID="wc0F6D1A10">
+   <ss:Alignment/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+   <ss:NumberFormat ss:Format="_(#,##0.00   _)"/>
+  </ss:Style>
+  <ss:Style ss:ID="wcCD7D1A10">
+   <ss:Alignment/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+   <ss:NumberFormat ss:Format="_(#,##0.000   _)"/>
+  </ss:Style>
+  <ss:Style ss:ID="wc000E1A10">
+   <ss:Alignment/>
+   <ss:Font ss:Size="12"/>
+   <ss:Interior/>
+  </ss:Style>
+  <ss:Style ss:ID="wc8D6E1A10">
+   <ss:Alignment/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="wcC52F1A10">
+   <ss:Alignment ss:Horizontal="Center"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="wc4784F150">
+   <ss:Alignment ss:Horizontal="Right"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="wc0658F150">
+   <ss:Alignment/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+   <ss:NumberFormat ss:Format="_(#,##0.000   _)"/>
+  </ss:Style>
+  <ss:Style ss:ID="wc0DE50250">
+   <ss:Alignment ss:Horizontal="Right"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+   <ss:NumberFormat ss:Format="_(#,##0.00   _)"/>
+  </ss:Style>
+  <ss:Style ss:ID="wcCF670250">
+   <ss:Alignment ss:Horizontal="Center"/>
+   <ss:Font ss:Bold="1"/>
+   <ss:Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="mc0BB6F15088AB1A10">
+   <ss:Alignment ss:Horizontal="Right"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="mc0BB6F15088D6F150">
+   <ss:Alignment ss:Horizontal="Right"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="mcC99B1A1088AB1A10">
+   <ss:Alignment ss:Horizontal="Center"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="mc0B491A1088691A10">
+   <ss:Alignment ss:Horizontal="Left"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="12" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+ </ss:Styles>
+ <c:ComponentOptions>
+  <c:Toolbar>
+   <c:HideOfficeLogo/>
+  </c:Toolbar>
+  <c:Label>
+   <c:Caption>Microsoft Office Spreadsheet</c:Caption>
+  </c:Label>
+  <c:MaxHeight>80%</c:MaxHeight>
+  <c:MaxWidth>80%</c:MaxWidth>
+  <c:NextSheetNumber>4</c:NextSheetNumber>
+ </c:ComponentOptions>
+ <x:WorkbookOptions>
+  <c:OWCVersion>10.0.0.6765         </c:OWCVersion>
+ </x:WorkbookOptions>
+ <ss:Worksheet ss:Name="Report Venduto">
+  <x:WorksheetOptions>
+   <x:Selected/>
+   <x:ViewableRange>R1:R262144</x:ViewableRange>
+   <x:Selection>R1C1:R1C8</x:Selection>
+   <x:TopRowVisible>0</x:TopRowVisible>
+   <x:LeftColumnVisible>0</x:LeftColumnVisible>
+   <x:ProtectContents>False</x:ProtectContents>
+  </x:WorksheetOptions>
+  <c:WorksheetOptions>
+  </c:WorksheetOptions>
+  <ss:Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="203"
+   ss:DefaultColumnWidth="48.0" ss:DefaultRowHeight="12.75">
+   <ss:Column ss:Width="381.75" ss:AutoFitWidth="0"/>
+   <ss:Column ss:Span="4" ss:Width="87.75" ss:AutoFitWidth="0"/>
+   <ss:Row ss:Height="15.75">
+    <ss:Cell ss:MergeAcross="7" ss:StyleID="mc0B491A1088691A10">
+     <ss:Data ss:Type="String">Esso 106786</ss:Data>
+    </ss:Cell>
+   </ss:Row>
+   <ss:Row ss:Height="15.75">
+    <ss:Cell ss:MergeAcross="7" ss:StyleID="mc0B491A1088691A10">
+     <ss:Data ss:Type="String">VIALE AMENDOLA 175 - Imola (BO)</ss:Data>
+    </ss:Cell>
+   </ss:Row>
+   <ss:Row ss:Height="15.75">
+    <ss:Cell ss:MergeAcross="7" ss:StyleID="mc0B491A1088691A10">
+     <ss:Data ss:Type="String">Periodo: dal 01/06/2025 00:00:00 al 09/06/2026 23:59:59</ss:Data>
+    </ss:Cell>
+   </ss:Row>
+   <ss:Row ss:Index="5" ss:Height="15.75">
+    <ss:Cell ss:StyleID="wcC8C91A10">
+     <ss:Data ss:Type="String">Riepilogo Erogato per segmento di vendita</ss:Data>
+    </ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0B8B1A10"/>
+    <ss:Cell ss:MergeAcross="1" ss:StyleID="mcC99B1A1088AB1A10">
+     <ss:Data ss:Type="String">Prepay</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="mcC99B1A1088AB1A10">
+     <ss:Data ss:Type="String">Totale</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:Index="6" ss:StyleID="wc47BB1A10"/>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Prodotto</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Volume</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Importo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Volume</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Prezzo medio</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Importo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc47BB1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">448320.69</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">744043.54</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">448320.69</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcCD7D1A10">
+     <ss:Data ss:Type="Number">1.659623471760806</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">744043.54</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc47BB1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">665590.99</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1105398.45</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">665590.99</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcCD7D1A10">
+     <ss:Data ss:Type="Number">1.6607773641887791</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">1105398.45</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc47BB1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4568.15</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">8063.73</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">4568.15</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcCD7D1A10">
+     <ss:Data ss:Type="Number">1.7652069218392565</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">8063.73</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Totale</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">1118479.8299999998</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">1857505.72</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">1118479.8299999998</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10"/>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">1857505.72</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row ss:Index="13" ss:Height="15.75">
+    <ss:Cell ss:StyleID="wcC8C91A10">
+     <ss:Data ss:Type="String">Riepilogo erogato per Tipo pagamento</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc000E1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Tipo Pagamento</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Dettaglio Pagamento</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc8D6E1A10">
+     <ss:Data ss:Type="String">Volume</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc8D6E1A10">
+     <ss:Data ss:Type="String">Importo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">CodiceResto</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10"/>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">5600.2925800000003</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">9178.1014799999994</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Contanti</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10"/>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">278965.73742000002</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">463305.59852</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Dkv</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10"/>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">45848.51</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">76605.03</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">ESSO</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10"/>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">56176.62</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">88856.97</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">EssoMB</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10"/>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1084.53</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1857.05</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">PagoBANCOMAT</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10"/>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">256235.19</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">423709.33</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">PagoBANCOMAT</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10"/>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">13589.16</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">23817.21</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Prova Erogazione</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10"/>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">717.83</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1137.05</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Uta</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10"/>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">46982.09</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">81516.15</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1489.3</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2493.75</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA INSPIRE</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">43.78</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">67.2</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">MC CREDITO</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">74.03</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">122.33</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA DEBITO</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">37.32</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">60.01</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA CARD</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">60.34</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">98.66</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA PREPAID</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2214.28</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3679.15</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">MASTERCARD DEBIT</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">870.01</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1454.5</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA CREDIT</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">28634.89</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">47369.54</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA CORPORATE</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">54.27</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">86.72</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA CLASICA</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">29.11</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">47.68</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA CREDIT DI</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">64.6</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">100</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">WISE VISA DEBIT</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">73.78</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">120.92</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">MC FINE MESE</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">35.86</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">55.76</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">ISBANK VISA</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">14.23</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">23.59</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA DKB</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">78.08</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">127.42</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">DKB VISA DEBIT</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">588.88</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">963.05</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA CLASSIC</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">106.46</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">190.17</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA COMMERCIAL</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">12.1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">20.27</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">DEBIT MASTERCARD</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">190834.37</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">316931.5</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">DKB VISA CREDIT</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">80.03</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">138.48</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA RATEALE</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">57.27</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">97.26</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA DEBIT</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">77648.94</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">129980.43</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">AMERICAN EXPRESS</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">7458.05</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">12251.76</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA CAIXABANK</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">30.31</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">52.13</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA ELECTRON</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">35.56</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">57.42</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">V PAY</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2052.79</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3365</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">MASTERCARD</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">85815.85</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">142598.48</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4822.43</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">8036.97</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">MAESTRO</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">5287.75</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">8689.26</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">VISA PREPAGO</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">100.86</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">163.35</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Satispay</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">SATISPAY</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4574.34</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">8080.47</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc4784F150">
+     <ss:Data ss:Type="String">Totale</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc4784F150"/>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">1118479.8300000005</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">1857505.7199999995</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row ss:Index="57" ss:Height="15.75">
+    <ss:Cell ss:StyleID="wcC8C91A10">
+     <ss:Data ss:Type="String">Fatturazione elettronica</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc000E1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Tipologia</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Imponibile</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">IVA</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Totale</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Fatture</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="String">Fattura Immediata</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">21096.82</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4641.0800000000017</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">25737.9</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">393</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:MergeAcross="2" ss:StyleID="mc0BB6F15088D6F150">
+     <ss:Data ss:Type="String">Totale</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:Index="4" ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">25737.9</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc8D6E1A10"/>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row ss:Index="62" ss:Height="15.75">
+    <ss:Cell ss:StyleID="wcC8C91A10">
+     <ss:Data ss:Type="String">Movimenti di cassa</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc000E1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Postazione</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Causale</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Importo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Terminale 1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">contanti</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">-14494.95</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Terminale 1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">contanti</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">15621.25</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row ss:Index="67" ss:Height="15.75">
+    <ss:Cell ss:StyleID="wcC8C91A10">
+     <ss:Data ss:Type="String">Incassi</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc000E1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Tipo Pagamento</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Postazione</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Importo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Terminale 1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">679442.76</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">PagoBANCOMAT</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Terminale 1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">447526.54</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Dkv</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Terminale 1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">76605.03</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">ESSO</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Terminale 1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">88856.97</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">EssoMB</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Terminale 1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1857.05</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Uta</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Terminale 1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">81516.15</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">CodiceResto</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Terminale 1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">14494.95</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Contanti</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Terminale 1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">473610</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Satispay</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Terminale 1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">8080.47</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Prova Erogazione</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Cassa Automatica</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1137.05</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:MergeAcross="1" ss:StyleID="mc0BB6F15088D6F150">
+     <ss:Data ss:Type="String">Totale</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:Index="3" ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">1873126.97</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row ss:Index="81" ss:Height="15.75">
+    <ss:Cell ss:StyleID="wcC8C91A10">
+     <ss:Data ss:Type="String">Riepilogo venduto per prezzo applicato</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc000E1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Prodotto</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Modalita'</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Erogazioni</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Prezzo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Volume</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Importo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">496</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5349999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">10353.81</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">15893.5</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">473</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5449999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">8777.64</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">13562.42</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">63</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5549999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">724.61</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1126.77</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">601</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5649999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">11993.79</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">18770.36</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">234</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5680000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4791.3</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">7512.3</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">247</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.575</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4369.09</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">6881.18</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">486</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5780000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">7794.44</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">12299.94</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">813</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.585</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">14873.45</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">23573.75</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">103</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5880000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1426.49</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2265.34</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">435</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.595</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">8282.55</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">13210.61</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">921</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5980000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">16889.85</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">26988.31</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1497</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6080000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">26517.67</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">42638.74</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">147</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6140000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3034.26</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4897.35</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">442</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.615</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">7620.02</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">12306.92</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">2483</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6180000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">44456.76</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">71933.31</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.627</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3.07</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">5</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">4553</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6279999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">83185.18</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">135421.38</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">54</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.629</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1033.14</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1682.95</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">863</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.635</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">14892.06</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">24348.74</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">875</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6379999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">15185.2</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">24872.29</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">532</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.645</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">9366.93</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">15407.76</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">266</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6479999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4977.46</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">8202.67</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">65</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6539999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1262.75</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2088.58</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">375</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.655</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">6908.79</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">11434.69</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">418</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6579999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">7190.61</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">11922.22</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">993</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.665</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">18419.1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">30667.83</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">992</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.675</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">18511.9</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">31007.200000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">626</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6779999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">11611.25</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">19483.14</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">304</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6839999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">5380.78</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">9060.87</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">104</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6850000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1717.42</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2893.92</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">485</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6879999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">9022.29</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">15229.79</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">154</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6950000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2650.24</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4492.1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">65</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.7689999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1082.27</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1914.42</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">91</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.788</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1502.43</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2686.25</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">140</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.8080000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2097.71</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3792.84</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">176</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.845</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2435.26</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4493.09</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">421</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.855</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">6752.49</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">12526.37</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">91</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.8580000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1296.72</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2409.54</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">320</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.865</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">5443.07</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">10151.82</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1178</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.8779999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">19662.92</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">36928.97</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">59</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.885</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">861.82</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1624.42</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">291</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.8879999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4601.77</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">8688.31</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1199</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.8979999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">19360.33</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">36745.58</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">734</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.498</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">24004.19</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">35957.85</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">280</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.508</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">6180.5</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">9320.36</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">64</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.528</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2364.26</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3612.65</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">908</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5349999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">25679.07</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">39417.96</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">70</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.538</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2451.37</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3770.34</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">536</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5449999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">15336.6</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">23696.19</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1193</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.548</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">34411.63</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">53269.279999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">352</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5549999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">9282.88</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">14435.28</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">968</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5580000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">26833.02</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">41805.120000000003</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">496</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5649999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">12550.29</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">19641.15</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">3024</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5680000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">80225.13</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">125787.9</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1305</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.575</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">37394</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">58894.53</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1407</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5780000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">38573.5</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">60869.62</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">113</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.585</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3061.43</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4852.26</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">962</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5880000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">26570.41</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">42194.47</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">963</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.595</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">30090.46</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">47993.73</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1320</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.5980000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">36366.89</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">58112.3</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">36</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.599</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">829.61</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1326.55</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">71</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.605</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1646.34</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2642.46</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1146</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6080000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">30760.01</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">49461.63</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">61</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.615</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1943.56</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3138.88</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">602</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6180000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">16120.68</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">26084.06</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.627</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">36.6</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">59.55</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1303</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6279999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">35968.639999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">58555.199999999997</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">333</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.6379999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">9257.01</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">15162.44</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">487</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.655</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">13588.08</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">22489.119999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">88</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.675</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2290.01</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3835.8</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">72</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.7749999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1993.72</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3538.8</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">169</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.8340000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3909.76</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">7170.14</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">1010</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.8879999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">25822.3</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">48753.13</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">74</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.8919999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1413.3</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2673.86</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">242</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.925</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">5396.69</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">10388.99</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">271</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.9279999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">6781.49</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">13074.96</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">39</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.9339999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1112.55</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2151.65</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">64</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.9450000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1528.33</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2972.67</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">189</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.948</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4868.87</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">9484.61</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">150</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.9550000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3514.11</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">6869.85</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">47</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.968</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1004.11</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1976.13</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">124</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.972</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3467.29</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">6837.75</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">326</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.9750000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">6590.24</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">13015.63</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">213</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.978</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4865.87</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">9624.55</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">611</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.9850000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">14626.03</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">29031.62</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">26</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.986</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">782.43</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1553.89</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">123</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.988</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2591.28</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">5151.48</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">128</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.9950000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3423.29</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">6829.07</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">488</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.998</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">12372.27</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">24718.75</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">109</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.9990000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">3365.2</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">6726.7</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">76</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">2.01</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1326.38</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2665.95</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">356</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">2.0150000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">8205.79</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">16534.46</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">118</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">2.0179999999999998</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2722.74</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">5494.33</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">117</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">2.0339999999999998</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2213.91</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4503.25</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">174</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">2.0579999999999998</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4509.16</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">9279.51</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">249</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">2.0779999999999998</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">6388.75</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">13276.45</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">160</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">2.0979999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">4047.5</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">8491.77</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">25</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">2.105</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">630.97</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1328.19</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">48</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">2.1080000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1247.48</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">2629.7</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">26</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">2.1480000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">759.61</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1631.62</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">21</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">2.1549999999999998</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">293.4</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">632.31</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">31</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.698</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">633.75</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1076.06</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">12</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.708</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">231.91</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">396.11</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">4</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.738</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">188.37</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">327.38</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">4</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.748</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">60.06</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">105</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">8</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.758</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">203.93</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">358.51</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">7</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.7649999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">137.75</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">243.12</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">28</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.768</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">598.56</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">1058.26</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">18</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.7749999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">420.86</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">747</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">20</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.778</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">528.18</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">939.1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">2</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.7849999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">102.49</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">182.95</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">15</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.788</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">355.99</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">636.5</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">9</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.7949999999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">260.55</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">467.68</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">13</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.798</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">305.96</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">550.12</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="String">Self</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC52F1A10">
+     <ss:Data ss:Type="Number">24</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0658F150">
+     <ss:Data ss:Type="Number">1.8080000000000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">539.79</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc406D1A10">
+     <ss:Data ss:Type="Number">975.94</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:MergeAcross="1" ss:StyleID="mc0BB6F15088AB1A10">
+     <ss:Data ss:Type="String">Totale</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:Index="3" ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="Number">49995</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc47BB1A10"/>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">1118479.83</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0F6D1A10">
+     <ss:Data ss:Type="Number">1857505.72</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row ss:Index="200" ss:Height="15.75">
+    <ss:Cell ss:StyleID="wcC8C91A10">
+     <ss:Data ss:Type="String">Riepilogo Incassi</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc000E1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">TOTALE INCASSATO (Venduto totale Oil  e + Totale movimenti di cassa)</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0DE50250">
+     <ss:Data ss:Type="Number">1858632.02</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">Totale F1C (di cui del Totale incassato)</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0DE50250">
+     <ss:Data ss:Type="Number">25737.9</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0B8B1A10">
+     <ss:Data ss:Type="String">TOTALE INCASSO CONTANTI IN CASSA (Totale incasso Contanti - Uscite di cassa gestore)</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0DE50250">
+     <ss:Data ss:Type="Number">473610</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc81AA1A10"/>
+   </ss:Row>
+  </ss:Table>
+ </ss:Worksheet>
+ <ss:Worksheet ss:Name="Dettaglio Venduto NonOil">
+  <x:WorksheetOptions>
+   <x:ViewableRange>R1:R262144</x:ViewableRange>
+   <x:Selection>R1C1</x:Selection>
+   <x:TopRowVisible>0</x:TopRowVisible>
+   <x:LeftColumnVisible>0</x:LeftColumnVisible>
+   <x:ProtectContents>False</x:ProtectContents>
+  </x:WorksheetOptions>
+  <c:WorksheetOptions>
+  </c:WorksheetOptions>
+  <ss:Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="1"
+   ss:DefaultColumnWidth="48.0" ss:DefaultRowHeight="12.75">
+   <ss:Column ss:Width="87.75" ss:AutoFitWidth="0"/>
+   <ss:Column ss:Width="381.75" ss:AutoFitWidth="0"/>
+   <ss:Column ss:Span="1" ss:Width="119.25" ss:AutoFitWidth="0"/>
+   <ss:Column ss:Span="3" ss:Width="87.75" ss:AutoFitWidth="0"/>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcCF670250">
+     <ss:Data ss:Type="String">Codice Articolo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcCF670250">
+     <ss:Data ss:Type="String">Articolo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcCF670250">
+     <ss:Data ss:Type="String">Reparto</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcCF670250">
+     <ss:Data ss:Type="String">Aliquota IVA</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcCF670250">
+     <ss:Data ss:Type="String">U.M.</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcCF670250">
+     <ss:Data ss:Type="String">Prezzo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcCF670250">
+     <ss:Data ss:Type="String">Quantita'</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcCF670250">
+     <ss:Data ss:Type="String">Importo</ss:Data>
+    </ss:Cell>
+   </ss:Row>
+  </ss:Table>
+ </ss:Worksheet>
+ <ss:Worksheet ss:Name="Sheet3">
+  <x:WorksheetOptions>
+   <x:ViewableRange>R1:R262144</x:ViewableRange>
+   <x:Selection>R1C1</x:Selection>
+   <x:TopRowVisible>0</x:TopRowVisible>
+   <x:LeftColumnVisible>0</x:LeftColumnVisible>
+   <x:ProtectContents>False</x:ProtectContents>
+  </x:WorksheetOptions>
+  <c:WorksheetOptions>
+  </c:WorksheetOptions>
+ </ss:Worksheet>
+</ss:Workbook>

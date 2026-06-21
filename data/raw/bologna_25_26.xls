@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet">
+ <x:ExcelWorkbook>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <ss:Styles>
+  <ss:Style ss:ID="Default">
+   <ss:Alignment ss:Horizontal="Automatic" ss:Rotate="0.0" ss:Vertical="Bottom"
+    ss:ReadingOrder="Context"/>
+   <ss:Borders>
+   </ss:Borders>
+   <ss:Font ss:FontName="Arial" ss:Size="10" ss:Color="Automatic" ss:Bold="0"
+    ss:Italic="0" ss:Underline="None"/>
+   <ss:Interior ss:Color="Automatic" ss:Pattern="None"/>
+   <ss:NumberFormat ss:Format="General"/>
+   <ss:Protection ss:Protected="1"/>
+  </ss:Style>
+  <ss:Style ss:ID="wc42B98A00">
+   <ss:Alignment ss:Horizontal="Left"/>
+   <ss:Font ss:Size="12" ss:Bold="1"/>
+   <ss:Interior/>
+  </ss:Style>
+  <ss:Style ss:ID="wc0C8B8A00">
+   <ss:Alignment ss:Horizontal="Center"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="wc0A7A8A00">
+   <ss:Alignment/>
+   <ss:Font ss:Size="8"/>
+   <ss:Interior/>
+  </ss:Style>
+  <ss:Style ss:ID="wcC8EC8A00">
+   <ss:Alignment/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="wc87FC8A00">
+   <ss:Alignment/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+   <ss:NumberFormat ss:Format="_(#,##0.00   _)"/>
+  </ss:Style>
+  <ss:Style ss:ID="wc460D8A00">
+   <ss:Alignment/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+   <ss:NumberFormat ss:Format="_(#,##0.00   _)"/>
+  </ss:Style>
+  <ss:Style ss:ID="wcC98D8A00">
+   <ss:Alignment/>
+   <ss:Font ss:Size="12"/>
+   <ss:Interior/>
+  </ss:Style>
+  <ss:Style ss:ID="wc895E8A00">
+   <ss:Alignment ss:Horizontal="Center"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="mcCA9B8A0089AB8A00">
+   <ss:Alignment ss:Horizontal="Center"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="8" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+  <ss:Style ss:ID="mc4A498A00C7698A00">
+   <ss:Alignment ss:Horizontal="Center"/>
+   <ss:Borders>
+    <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+    <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+   </ss:Borders>
+   <ss:Font ss:Size="12" ss:Bold="1"/>
+   <ss:Interior ss:Color="#FFFFB0" ss:Pattern="Solid"/>
+  </ss:Style>
+ </ss:Styles>
+ <c:ComponentOptions>
+  <c:Toolbar>
+   <c:HideOfficeLogo/>
+  </c:Toolbar>
+  <c:Label>
+   <c:Caption>Microsoft Office Spreadsheet</c:Caption>
+  </c:Label>
+  <c:MaxHeight>80%</c:MaxHeight>
+  <c:MaxWidth>80%</c:MaxWidth>
+  <c:NextSheetNumber>4</c:NextSheetNumber>
+ </c:ComponentOptions>
+ <x:WorkbookOptions>
+  <c:OWCVersion>10.0.0.6765         </c:OWCVersion>
+ </x:WorkbookOptions>
+ <ss:Worksheet ss:Name="VendutoPV">
+  <x:WorksheetOptions>
+   <x:Selected/>
+   <x:ViewableRange>R1:R262144</x:ViewableRange>
+   <x:Selection>R1C1:R1C4</x:Selection>
+   <x:TopRowVisible>0</x:TopRowVisible>
+   <x:LeftColumnVisible>0</x:LeftColumnVisible>
+   <x:ProtectContents>False</x:ProtectContents>
+  </x:WorksheetOptions>
+  <c:WorksheetOptions>
+  </c:WorksheetOptions>
+  <ss:Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="24"
+   ss:DefaultColumnWidth="48.0" ss:DefaultRowHeight="12.75">
+   <ss:Column ss:Span="6" ss:Width="87.75" ss:AutoFitWidth="0"/>
+   <ss:Row ss:Height="15.75">
+    <ss:Cell ss:MergeAcross="3" ss:StyleID="mc4A498A00C7698A00">
+     <ss:Data ss:Type="String">Periodo: Dal 01/06/2025 00:00 Al 09/06/2026 23:59</ss:Data>
+    </ss:Cell>
+   </ss:Row>
+   <ss:Row ss:Index="3" ss:Height="15.75">
+    <ss:Cell ss:StyleID="wc42B98A00">
+     <ss:Data ss:Type="String">Riepilogo Erogato per segmento di vendita</ss:Data>
+    </ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0C8B8A00"/>
+    <ss:Cell ss:MergeAcross="1" ss:StyleID="mcCA9B8A0089AB8A00">
+     <ss:Data ss:Type="String">Prepay</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="mcCA9B8A0089AB8A00">
+     <ss:Data ss:Type="String">Servito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:Index="6" ss:MergeAcross="1" ss:StyleID="mcCA9B8A0089AB8A00">
+     <ss:Data ss:Type="String">Totale</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:Index="8" ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0C8B8A00">
+     <ss:Data ss:Type="String">Prodotto</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0C8B8A00">
+     <ss:Data ss:Type="String">Volume</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0C8B8A00">
+     <ss:Data ss:Type="String">Importo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0C8B8A00">
+     <ss:Data ss:Type="String">Volume</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0C8B8A00">
+     <ss:Data ss:Type="String">Importo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0C8B8A00">
+     <ss:Data ss:Type="String">Volume</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0C8B8A00">
+     <ss:Data ss:Type="String">Importo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC8EC8A00">
+     <ss:Data ss:Type="String">Verde</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">250083.27</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">421293.66</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00"/>
+    <ss:Cell ss:StyleID="wc87FC8A00"/>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">250083.27</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">421293.66</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC8EC8A00">
+     <ss:Data ss:Type="String">Diesel</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">212403.89</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">363957.09</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">00.02</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">00.32</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">212403.91</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">363957.41000000003</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC8EC8A00">
+     <ss:Data ss:Type="String">Diesel+</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">2437.85</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">4634.29</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00"/>
+    <ss:Cell ss:StyleID="wc87FC8A00"/>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">2437.85</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">4634.29</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wcC8EC8A00">
+     <ss:Data ss:Type="String">Totale</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">464925.01</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">789885.04</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">00.02</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">00.32</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">464925.03</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">789885.36</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row ss:Index="11" ss:Height="15.75">
+    <ss:Cell ss:StyleID="wc42B98A00">
+     <ss:Data ss:Type="String">Riepilogo erogato per Tipo pagamento</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC98D8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0C8B8A00">
+     <ss:Data ss:Type="String">Tipo Pagamento</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC8EC8A00">
+     <ss:Data ss:Type="String">Volume</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wcC8EC8A00">
+     <ss:Data ss:Type="String">Importo</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc895E8A00">
+     <ss:Data ss:Type="String">Codiceresto</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">6668.5909099999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">11371.86988</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc895E8A00">
+     <ss:Data ss:Type="String">Contanti</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">101415.81909</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">173306.94012000001</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc895E8A00">
+     <ss:Data ss:Type="String">Dkv</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">12602.5</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">21711.43</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc895E8A00">
+     <ss:Data ss:Type="String">Esso</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">54613.599999999999</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">89903.9</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc895E8A00">
+     <ss:Data ss:Type="String">Essomb</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">710.49</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">1364.35</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc895E8A00">
+     <ss:Data ss:Type="String">Pagobancomat</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">68603.53</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">116484.14</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc895E8A00">
+     <ss:Data ss:Type="String">Pagobancomat</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">3674.44</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">6427.31</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc895E8A00">
+     <ss:Data ss:Type="String">Prova Erogazione</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">1519.37</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">2579.1</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc895E8A00">
+     <ss:Data ss:Type="String">Satispay</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">471.12</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">819.72</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc895E8A00">
+     <ss:Data ss:Type="String">Uta</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">16403.04</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">28169.18</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc895E8A00">
+     <ss:Data ss:Type="String">Carta di Credito</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">198242.53000000003</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc87FC8A00">
+     <ss:Data ss:Type="Number">337747.42000000004</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell ss:StyleID="wc0C8B8A00">
+     <ss:Data ss:Type="String">Totale</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">464925.03</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc460D8A00">
+     <ss:Data ss:Type="Number">789885.36000000022</ss:Data>
+    </ss:Cell>
+    <ss:Cell ss:StyleID="wc0A7A8A00"/>
+   </ss:Row>
+  </ss:Table>
+ </ss:Worksheet>
+ <ss:Worksheet ss:Name="Sheet2">
+  <x:WorksheetOptions>
+   <x:ViewableRange>R1:R262144</x:ViewableRange>
+   <x:Selection>R1C1</x:Selection>
+   <x:TopRowVisible>0</x:TopRowVisible>
+   <x:LeftColumnVisible>0</x:LeftColumnVisible>
+   <x:ProtectContents>False</x:ProtectContents>
+  </x:WorksheetOptions>
+  <c:WorksheetOptions>
+  </c:WorksheetOptions>
+ </ss:Worksheet>
+ <ss:Worksheet ss:Name="Sheet3">
+  <x:WorksheetOptions>
+   <x:ViewableRange>R1:R262144</x:ViewableRange>
+   <x:Selection>R1C1</x:Selection>
+   <x:TopRowVisible>0</x:TopRowVisible>
+   <x:LeftColumnVisible>0</x:LeftColumnVisible>
+   <x:ProtectContents>False</x:ProtectContents>
+  </x:WorksheetOptions>
+  <c:WorksheetOptions>
+  </c:WorksheetOptions>
+ </ss:Worksheet>
+</ss:Workbook>
