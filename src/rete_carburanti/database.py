@@ -153,3 +153,17 @@ class DatabaseManager:
                 ORDER BY data_elaborazione DESC
             """)
             return [dict(row) for row in cursor.fetchall()]
+        
+
+    def storico_stazione_per_elaborazione(self, elaborazione_id: int) -> list:
+        """Restituisce tutte le stazioni di una specifica elaborazione."""
+        with sqlite3.connect(self.percorso_db) as conn:
+            conn.row_factory = sqlite3.Row
+            cursor = conn.execute("""
+                SELECT nome, totale_litri, totale_euro,
+                       pct_verde, pct_diesel, pct_flotte,
+                       margine_stimato
+                FROM stazioni
+                WHERE elaborazione_id = ?
+            """, (elaborazione_id,))
+            return [dict(row) for row in cursor.fetchall()]
