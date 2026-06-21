@@ -22,3 +22,7 @@ class Config:
     # Output
     OUTPUT_DIR: str    = os.getenv("OUTPUT_DIR", "output")
     DATA_RAW_DIR: str  = os.getenv("DATA_RAW_DIR", "data/raw")
+    # Email
+    EMAIL_MITTENTE:      str = os.getenv("EMAIL_MITTENTE", "")
+    EMAIL_APP_PASSWORD:  str = os.getenv("EMAIL_APP_PASSWORD", "")
+    EMAIL_DESTINATARIO:  str = os.getenv("EMAIL_DESTINATARIO", "")
