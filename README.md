@@ -19,13 +19,4 @@ Sistema di analisi e monitoraggio per reti di distributori carburante.
 - ReportLab — generazione PDF
 - SQLite — storage storico
 
-## Struttura progetto
 
-cat > main.py << 'EOF'
-"""
-Analisi Rete Carburanti
-Entry point principale del progetto.
-"""
-
-if __name__ == "__main__":
-    print("Sistema analisi rete carburanti — avvio...")
